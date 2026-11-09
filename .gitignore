@@ -1,0 +1,5 @@
+.env
+log_keputusan.csv
+__pycache__/
+.venv/
+CLAUDE.md
