@@ -87,6 +87,13 @@ def muat_daftar(sumber):
     return pd.read_csv(sumber)
 
 
+def teks_nilai(m):
+    """Kalau nilai kosong, tulis keterangan, bukan 'nan'."""
+    if pd.isna(m["nilai_rata2"]):
+        return "belum ada tugas yang dinilai"
+    return m["nilai_rata2"]
+
+
 def profil_teks(m):
     """Ubah satu baris data mahasiswa menjadi teks yang bisa dibaca chatbot."""
     return (
@@ -98,7 +105,7 @@ def profil_teks(m):
         f"minggu 5-6: {int(m['klik_minggu_5_6'])}\n"
         f"Tugas jatuh tempo: {int(m['tugas_jatuh_tempo'])}; dikumpulkan: {int(m['tugas_dikumpulkan'])}; "
         f"terlewat: {int(m['tugas_terlewat'])}; terlambat: {int(m['tugas_terlambat'])}\n"
-        f"Nilai rata-rata tugas awal: {m['nilai_rata2']}\n"
+        f"Nilai rata-rata tugas awal: {teks_nilai(m)}\n"
         f"Beban studi: {int(m['studied_credits'])} kredit; pernah mengulang: {int(m['num_of_prev_attempts'])} kali"
     )
 
@@ -113,7 +120,7 @@ def jawab_tanpa_ai(pesan, m):
             f"**{m['kode']}** ada di urutan ini karena model melihat sinyal berikut: "
             f"**{m['petunjuk']}**.\n\n"
             f"Datanya: {int(m['hari_aktif'])} hari aktif di LMS, {int(m['klik_minggu_5_6'])} klik di minggu 5-6, "
-            f"{int(m['tugas_terlewat'])} tugas terlewat, nilai rata-rata {m['nilai_rata2']}.\n\n"
+            f"{int(m['tugas_terlewat'])} tugas terlewat, nilai rata-rata {teks_nilai(m)}.\n\n"
             "Ingat: ini sinyal, bukan sebab. Penyebabnya baru bisa diketahui lewat percakapan."
         )
     if any(k in p for k in ["tanya", "pertanyaan", "membuka", "mulai", "bicara", "ngobrol"]):

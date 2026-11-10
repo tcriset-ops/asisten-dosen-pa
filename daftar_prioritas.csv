@@ -1,188 +1,188 @@
 kode,prioritas,skor_prioritas,petunjuk,hari_aktif,klik_pra_kuliah,klik_minggu_1_4,klik_minggu_5_6,tugas_jatuh_tempo,tugas_dikumpulkan,tugas_terlewat,tugas_terlambat,nilai_rata2,studied_credits,num_of_prev_attempts
 M001,Hubungi minggu ini,0.999,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,6.0,1.0,118.0,0.0,2.0,1.0,1.0,0.0,0.0,60,1
 M002,Hubungi minggu ini,0.999,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,1.0,0.0,94.0,0.0,2.0,1.0,1.0,0.0,0.0,120,0
-M003,Hubungi minggu ini,0.999,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; beban SKS tinggi,12.0,65.0,180.0,0.0,2.0,0.0,2.0,0.0,78.0,300,0
+M003,Hubungi minggu ini,0.999,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; beban SKS tinggi,12.0,65.0,180.0,0.0,2.0,0.0,2.0,0.0,,300,0
 M004,Hubungi minggu ini,0.999,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,6.0,0.0,117.0,0.0,2.0,1.0,1.0,0.0,0.0,60,0
 M005,Hubungi minggu ini,0.999,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,18.0,27.0,354.0,0.0,2.0,1.0,1.0,0.0,11.0,180,0
 M006,Hubungi minggu ini,0.999,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,21.0,67.0,847.0,1.0,2.0,1.0,1.0,0.0,0.0,120,0
-M007,Hubungi minggu ini,0.999,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; beban SKS tinggi,6.0,12.0,47.0,0.0,2.0,0.0,2.0,0.0,78.0,240,0
-M008,Hubungi minggu ini,0.999,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,7.0,36.0,0.0,2.0,0.0,2.0,0.0,78.0,60,1
-M009,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,151.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
+M007,Hubungi minggu ini,0.999,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; beban SKS tinggi,6.0,12.0,47.0,0.0,2.0,0.0,2.0,0.0,,240,0
+M008,Hubungi minggu ini,0.999,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,7.0,36.0,0.0,2.0,0.0,2.0,0.0,,60,1
+M009,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,151.0,0.0,2.0,0.0,2.0,0.0,,120,0
 M010,Hubungi minggu ini,0.998,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,3.0,0.0,18.0,0.0,2.0,1.0,1.0,0.0,6.0,90,0
-M011,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,11.0,48.0,315.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
+M011,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,11.0,48.0,315.0,0.0,2.0,0.0,2.0,0.0,,120,0
 M012,Hubungi minggu ini,0.998,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,17.0,63.0,176.0,5.0,2.0,1.0,1.0,0.0,0.0,150,0
-M013,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,1.0,22.0,0.0,2.0,0.0,2.0,0.0,78.0,60,1
-M014,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,34.0,24.0,0.0,2.0,0.0,2.0,0.0,78.0,30,1
-M015,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,0.0,97.0,0.0,2.0,0.0,2.0,0.0,78.0,90,0
-M016,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,8.0,21.0,87.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
-M017,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,0.0,156.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M018,Hubungi minggu ini,0.998,ada tugas yang terlewat; beban SKS tinggi; aktivitas LMS minggu 5-6 rendah,9.0,12.0,203.0,9.0,2.0,0.0,2.0,0.0,78.0,180,1
-M019,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,14.0,71.0,135.0,0.0,2.0,0.0,2.0,0.0,78.0,90,0
-M020,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,1.0,35.0,0.0,2.0,0.0,2.0,0.0,78.0,30,1
-M021,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,2.0,17.0,0.0,2.0,0.0,2.0,0.0,78.0,30,1
-M022,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,18.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
-M023,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,2.0,22.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
+M013,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,1.0,22.0,0.0,2.0,0.0,2.0,0.0,,60,1
+M014,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,34.0,24.0,0.0,2.0,0.0,2.0,0.0,,30,1
+M015,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,0.0,97.0,0.0,2.0,0.0,2.0,0.0,,90,0
+M016,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,8.0,21.0,87.0,0.0,2.0,0.0,2.0,0.0,,120,0
+M017,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,0.0,156.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M018,Hubungi minggu ini,0.998,ada tugas yang terlewat; beban SKS tinggi; aktivitas LMS minggu 5-6 rendah,9.0,12.0,203.0,9.0,2.0,0.0,2.0,0.0,,180,1
+M019,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,14.0,71.0,135.0,0.0,2.0,0.0,2.0,0.0,,90,0
+M020,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,1.0,35.0,0.0,2.0,0.0,2.0,0.0,,30,1
+M021,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,2.0,17.0,0.0,2.0,0.0,2.0,0.0,,30,1
+M022,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,18.0,0.0,2.0,0.0,2.0,0.0,,120,0
+M023,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,2.0,22.0,0.0,2.0,0.0,2.0,0.0,,120,0
 M024,Hubungi minggu ini,0.998,nilai tugas awal rendah; ada tugas yang terlewat; ada tugas yang terlambat,6.0,0.0,13.0,115.0,2.0,1.0,1.0,1.0,8.0,60,1
-M025,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,36.0,69.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
+M025,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,36.0,69.0,0.0,2.0,0.0,2.0,0.0,,60,0
 M026,Hubungi minggu ini,0.998,nilai tugas awal rendah; ada tugas yang terlewat; ada tugas yang terlambat,25.0,224.0,127.0,47.0,2.0,1.0,1.0,1.0,8.0,120,0
-M027,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; aktivitas LMS minggu 1-4 tinggi,23.0,308.0,624.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
-M028,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,78.0,60,1
+M027,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; aktivitas LMS minggu 1-4 tinggi,23.0,308.0,624.0,0.0,2.0,0.0,2.0,0.0,,120,0
+M028,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,,60,1
 M029,Hubungi minggu ini,0.998,nilai tugas awal rendah; ada tugas yang terlewat; beban SKS tinggi,15.0,13.0,101.0,22.0,2.0,1.0,1.0,0.0,0.0,210,0
-M030,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,56.0,31.0,0.0,2.0,0.0,2.0,0.0,78.0,90,0
-M031,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,26.0,0.0,2.0,0.0,2.0,0.0,78.0,90,0
-M032,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,60,1
-M033,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,21.0,8.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
-M034,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; beban SKS tinggi,18.0,22.0,600.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
-M035,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,6.0,1.0,0.0,2.0,0.0,2.0,0.0,78.0,60,1
-M036,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,5.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
+M030,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,56.0,31.0,0.0,2.0,0.0,2.0,0.0,,90,0
+M031,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,26.0,0.0,2.0,0.0,2.0,0.0,,90,0
+M032,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,60,1
+M033,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,21.0,8.0,0.0,2.0,0.0,2.0,0.0,,120,0
+M034,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; beban SKS tinggi,18.0,22.0,600.0,0.0,2.0,0.0,2.0,0.0,,120,0
+M035,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,6.0,1.0,0.0,2.0,0.0,2.0,0.0,,60,1
+M036,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,5.0,0.0,2.0,0.0,2.0,0.0,,120,0
 M037,Hubungi minggu ini,0.998,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,8.0,2.0,205.0,1.0,2.0,1.0,1.0,0.0,11.0,60,0
-M038,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,0.0,2.0,1.0,2.0,0.0,2.0,0.0,78.0,90,1
-M039,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,55.0,34.0,0.0,2.0,0.0,2.0,0.0,78.0,90,0
-M040,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,78.0,30,1
-M041,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,30,1
-M042,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,150,0
-M043,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,2.0,106.0,1.0,2.0,0.0,2.0,0.0,78.0,90,0
-M044,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,7.0,7.0,86.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M045,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,8.0,18.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M046,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,19.0,1.0,0.0,2.0,0.0,2.0,0.0,78.0,30,1
-M047,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,5.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,150,0
+M038,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,0.0,2.0,1.0,2.0,0.0,2.0,0.0,,90,1
+M039,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,55.0,34.0,0.0,2.0,0.0,2.0,0.0,,90,0
+M040,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,,30,1
+M041,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,30,1
+M042,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,,150,0
+M043,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,2.0,106.0,1.0,2.0,0.0,2.0,0.0,,90,0
+M044,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,7.0,7.0,86.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M045,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,8.0,18.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M046,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,19.0,1.0,0.0,2.0,0.0,2.0,0.0,,30,1
+M047,Hubungi minggu ini,0.998,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,5.0,0.0,0.0,2.0,0.0,2.0,0.0,,150,0
 M048,Hubungi minggu ini,0.998,ada tugas yang terlewat; nilai tugas awal rendah; ada tugas yang terlambat,6.0,19.0,2.0,6.0,2.0,1.0,1.0,1.0,22.0,150,0
 M049,Hubungi minggu ini,0.997,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,30.0,2.0,498.0,4.0,2.0,1.0,1.0,0.0,0.0,60,0
-M050,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,1.0,28.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M051,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,10.0,77.0,130.0,0.0,2.0,0.0,2.0,0.0,78.0,55,0
-M052,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
-M053,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,10.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
+M050,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,1.0,28.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M051,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,10.0,77.0,130.0,0.0,2.0,0.0,2.0,0.0,,55,0
+M052,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,120,0
+M053,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,10.0,0.0,2.0,0.0,2.0,0.0,,60,0
 M054,Hubungi minggu ini,0.997,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,12.0,22.0,103.0,9.0,2.0,1.0,1.0,0.0,0.0,60,0
-M055,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; aktivitas LMS minggu 1-4 tinggi,18.0,93.0,312.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
+M055,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; aktivitas LMS minggu 1-4 tinggi,18.0,93.0,312.0,0.0,2.0,0.0,2.0,0.0,,60,0
 M056,Hubungi minggu ini,0.997,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,7.0,4.0,77.0,1.0,2.0,1.0,1.0,0.0,11.0,60,0
-M057,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,6.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M058,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,7.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M059,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
-M060,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,7.0,1.0,57.0,1.0,2.0,0.0,2.0,0.0,78.0,90,0
-M061,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,18.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
-M062,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
-M063,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,120,0
-M064,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,5.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M065,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,0.0,4.0,1.0,2.0,0.0,2.0,0.0,78.0,30,1
-M066,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,9.0,15.0,52.0,2.0,2.0,0.0,2.0,0.0,78.0,120,0
-M067,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,14.0,13.0,153.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
-M068,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,90,0
-M069,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,90,0
-M070,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,0.0,2.0,2.0,0.0,2.0,0.0,78.0,60,1
+M057,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,6.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M058,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,7.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M059,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,120,0
+M060,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,7.0,1.0,57.0,1.0,2.0,0.0,2.0,0.0,,90,0
+M061,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,18.0,0.0,2.0,0.0,2.0,0.0,,30,0
+M062,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,120,0
+M063,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,120,0
+M064,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,5.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M065,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,0.0,4.0,1.0,2.0,0.0,2.0,0.0,,30,1
+M066,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,9.0,15.0,52.0,2.0,2.0,0.0,2.0,0.0,,120,0
+M067,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,14.0,13.0,153.0,0.0,2.0,0.0,2.0,0.0,,30,0
+M068,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,90,0
+M069,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,90,0
+M070,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,0.0,0.0,2.0,2.0,0.0,2.0,0.0,,60,1
 M071,Hubungi minggu ini,0.997,nilai tugas awal rendah; ada tugas yang terlewat; ada pernah mengulang mata kuliah ini,25.0,41.0,138.0,13.0,2.0,1.0,1.0,0.0,11.0,150,1
-M072,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,90,0
-M073,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,90,0
+M072,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,90,0
+M073,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,90,0
 M074,Hubungi minggu ini,0.997,ada tugas yang terlewat; nilai tugas awal rendah; ada tugas yang terlambat,8.0,2.0,44.0,61.0,2.0,1.0,1.0,1.0,18.0,120,0
-M075,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,5.0,11.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M076,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,2.0,8.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M077,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,5.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
-M078,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,2.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M079,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,11.0,16.0,2.0,2.0,0.0,2.0,0.0,78.0,120,0
+M075,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,5.0,11.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M076,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,2.0,8.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M077,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,5.0,0.0,2.0,0.0,2.0,0.0,,30,0
+M078,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,2.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M079,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,11.0,16.0,2.0,2.0,0.0,2.0,0.0,,120,0
 M080,Hubungi minggu ini,0.997,nilai tugas awal rendah; ada tugas yang terlewat; jumlah hari aktif di LMS rendah,12.0,0.0,66.0,42.0,2.0,1.0,1.0,0.0,0.0,120,0
-M081,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,10.0,28.0,64.0,2.0,2.0,0.0,2.0,0.0,78.0,90,0
-M082,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
+M081,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,10.0,28.0,64.0,2.0,2.0,0.0,2.0,0.0,,90,0
+M082,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,60,0
 M083,Hubungi minggu ini,0.997,nilai tugas awal rendah; ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah,19.0,165.0,49.0,14.0,2.0,1.0,1.0,0.0,0.0,30,0
-M084,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,7.0,8.0,32.0,5.0,2.0,0.0,2.0,0.0,78.0,30,1
-M085,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M086,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,21.0,0.0,5.0,2.0,0.0,2.0,0.0,78.0,100,1
-M087,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M088,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M089,Hubungi minggu ini,0.997,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,10.0,7.0,252.0,13.0,2.0,0.0,2.0,0.0,78.0,120,0
-M090,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M091,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,5.0,11.0,1.0,2.0,0.0,2.0,0.0,78.0,60,0
-M092,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M093,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
-M094,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
-M095,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,10.0,53.0,56.0,1.0,2.0,0.0,2.0,0.0,78.0,30,0
-M096,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
-M097,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,9.0,5.0,35.0,4.0,2.0,0.0,2.0,0.0,78.0,115,0
-M098,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
-M099,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,17.0,1.0,0.0,2.0,0.0,2.0,0.0,78.0,60,0
-M100,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
-M101,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,1.0,26.0,6.0,2.0,0.0,2.0,0.0,78.0,120,0
-M102,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
-M103,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,2.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
+M084,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,7.0,8.0,32.0,5.0,2.0,0.0,2.0,0.0,,30,1
+M085,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M086,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,21.0,0.0,5.0,2.0,0.0,2.0,0.0,,100,1
+M087,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M088,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M089,Hubungi minggu ini,0.997,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,10.0,7.0,252.0,13.0,2.0,0.0,2.0,0.0,,120,0
+M090,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M091,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,4.0,5.0,11.0,1.0,2.0,0.0,2.0,0.0,,60,0
+M092,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M093,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,,30,0
+M094,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,,30,0
+M095,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,10.0,53.0,56.0,1.0,2.0,0.0,2.0,0.0,,30,0
+M096,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,30,0
+M097,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,9.0,5.0,35.0,4.0,2.0,0.0,2.0,0.0,,115,0
+M098,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,30,0
+M099,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,17.0,1.0,0.0,2.0,0.0,2.0,0.0,,60,0
+M100,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,,30,0
+M101,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,1.0,26.0,6.0,2.0,0.0,2.0,0.0,,120,0
+M102,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,30,0
+M103,Hubungi minggu ini,0.997,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,1.0,2.0,0.0,0.0,2.0,0.0,2.0,0.0,,30,0
 M104,Hubungi minggu ini,0.997,nilai tugas awal rendah; ada tugas yang terlewat; ada pernah mengulang mata kuliah ini,44.0,167.0,357.0,85.0,2.0,1.0,1.0,0.0,0.0,150,1
-M105,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,78.0,30,0
+M105,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,,30,0
 M106,Hubungi minggu ini,0.996,ada tugas yang terlewat; nilai tugas awal rendah; ada tugas yang terlambat,8.0,0.0,84.0,23.0,2.0,1.0,1.0,1.0,24.0,60,0
 M107,Hubungi minggu ini,0.996,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,3.0,0.0,64.0,0.0,2.0,1.0,1.0,0.0,33.0,30,1
 M108,Hubungi minggu ini,0.996,nilai tugas awal rendah; ada tugas yang terlewat; ada pernah mengulang mata kuliah ini,13.0,5.0,28.0,14.0,2.0,1.0,1.0,0.0,10.0,30,1
-M109,Hubungi minggu ini,0.996,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; ada pernah mengulang mata kuliah ini,8.0,0.0,53.0,29.0,2.0,0.0,2.0,0.0,78.0,60,1
+M109,Hubungi minggu ini,0.996,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; ada pernah mengulang mata kuliah ini,8.0,0.0,53.0,29.0,2.0,0.0,2.0,0.0,,60,1
 M110,Hubungi minggu ini,0.996,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,14.0,55.0,214.0,0.0,2.0,1.0,1.0,0.0,33.0,90,0
-M111,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,0.0,11.0,5.0,2.0,0.0,2.0,0.0,78.0,60,0
-M112,Hubungi minggu ini,0.996,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,10.0,0.0,93.0,28.0,2.0,0.0,2.0,0.0,78.0,120,0
-M113,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,1.0,43.0,7.0,2.0,0.0,2.0,0.0,78.0,30,0
-M114,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,9.0,5.0,10.0,7.0,2.0,0.0,2.0,0.0,78.0,120,0
+M111,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,3.0,0.0,11.0,5.0,2.0,0.0,2.0,0.0,,60,0
+M112,Hubungi minggu ini,0.996,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,10.0,0.0,93.0,28.0,2.0,0.0,2.0,0.0,,120,0
+M113,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,1.0,43.0,7.0,2.0,0.0,2.0,0.0,,30,0
+M114,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,9.0,5.0,10.0,7.0,2.0,0.0,2.0,0.0,,120,0
 M115,Hubungi minggu ini,0.996,nilai tugas awal rendah; ada tugas yang terlewat; jumlah hari aktif di LMS rendah,6.0,0.0,26.0,19.0,2.0,1.0,1.0,0.0,10.0,60,0
 M116,Hubungi minggu ini,0.996,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,6.0,0.0,166.0,0.0,2.0,1.0,1.0,0.0,33.0,90,0
 M117,Hubungi minggu ini,0.996,ada tugas yang terlewat; nilai tugas awal rendah; beban SKS tinggi,9.0,18.0,328.0,28.0,2.0,1.0,1.0,0.0,22.0,180,0
 M118,Hubungi minggu ini,0.996,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,7.0,5.0,49.0,3.0,2.0,1.0,1.0,0.0,22.0,120,0
-M119,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,9.0,7.0,5.0,2.0,0.0,2.0,0.0,78.0,60,0
+M119,Hubungi minggu ini,0.996,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,5.0,9.0,7.0,5.0,2.0,0.0,2.0,0.0,,60,0
 M120,Hubungi minggu ini,0.995,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,8.0,2.0,139.0,0.0,2.0,1.0,1.0,0.0,33.0,90,0
-M121,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,3.0,0.0,39.0,14.0,2.0,0.0,2.0,0.0,78.0,60,0
-M122,Hubungi minggu ini,0.995,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,11.0,3.0,24.0,6.0,2.0,0.0,2.0,0.0,78.0,90,0
-M123,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,5.0,2.0,9.0,7.0,2.0,0.0,2.0,0.0,78.0,60,0
-M124,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,2.0,0.0,0.0,7.0,2.0,0.0,2.0,0.0,78.0,90,0
-M125,Hubungi minggu ini,0.995,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,3.0,0.0,4.0,2.0,0.0,2.0,0.0,78.0,60,0
-M126,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,3.0,0.0,2.0,7.0,2.0,0.0,2.0,0.0,78.0,90,0
-M127,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,10.0,0.0,21.0,13.0,2.0,0.0,2.0,0.0,78.0,120,0
-M128,Hubungi minggu ini,0.995,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,5.0,9.0,7.0,2.0,0.0,2.0,0.0,78.0,60,0
-M129,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; ada pernah mengulang mata kuliah ini,7.0,0.0,12.0,31.0,2.0,0.0,2.0,0.0,78.0,30,1
-M130,Hubungi minggu ini,0.995,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,7.0,2.0,5.0,5.0,2.0,0.0,2.0,0.0,78.0,60,0
+M121,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,3.0,0.0,39.0,14.0,2.0,0.0,2.0,0.0,,60,0
+M122,Hubungi minggu ini,0.995,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,11.0,3.0,24.0,6.0,2.0,0.0,2.0,0.0,,90,0
+M123,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,5.0,2.0,9.0,7.0,2.0,0.0,2.0,0.0,,60,0
+M124,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,2.0,0.0,0.0,7.0,2.0,0.0,2.0,0.0,,90,0
+M125,Hubungi minggu ini,0.995,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,2.0,3.0,0.0,4.0,2.0,0.0,2.0,0.0,,60,0
+M126,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,3.0,0.0,2.0,7.0,2.0,0.0,2.0,0.0,,90,0
+M127,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,10.0,0.0,21.0,13.0,2.0,0.0,2.0,0.0,,120,0
+M128,Hubungi minggu ini,0.995,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,6.0,5.0,9.0,7.0,2.0,0.0,2.0,0.0,,60,0
+M129,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; ada pernah mengulang mata kuliah ini,7.0,0.0,12.0,31.0,2.0,0.0,2.0,0.0,,30,1
+M130,Hubungi minggu ini,0.995,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; jumlah hari aktif di LMS rendah,7.0,2.0,5.0,5.0,2.0,0.0,2.0,0.0,,60,0
 M131,Hubungi minggu ini,0.995,nilai tugas awal rendah; ada tugas yang terlewat; jumlah hari aktif di LMS rendah,11.0,26.0,36.0,85.0,2.0,1.0,1.0,0.0,6.0,90,0
-M132,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,8.0,9.0,54.0,10.0,2.0,0.0,2.0,0.0,78.0,30,0
+M132,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,8.0,9.0,54.0,10.0,2.0,0.0,2.0,0.0,,30,0
 M133,Hubungi minggu ini,0.995,nilai tugas awal rendah; ada tugas yang terlewat; jumlah hari aktif di LMS rendah,15.0,23.0,177.0,45.0,2.0,1.0,1.0,0.0,11.0,90,0
-M134,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,8.0,1.0,51.0,11.0,2.0,0.0,2.0,0.0,78.0,30,0
+M134,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,8.0,1.0,51.0,11.0,2.0,0.0,2.0,0.0,,30,0
 M135,Hubungi minggu ini,0.995,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,20.0,144.0,322.0,0.0,2.0,1.0,1.0,0.0,33.0,90,0
-M136,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,2.0,0.0,0.0,5.0,2.0,0.0,2.0,0.0,78.0,30,0
-M137,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,7.0,45.0,24.0,38.0,2.0,0.0,2.0,0.0,78.0,90,0
-M138,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,9.0,0.0,175.0,53.0,2.0,0.0,2.0,0.0,78.0,30,0
+M136,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,2.0,0.0,0.0,5.0,2.0,0.0,2.0,0.0,,30,0
+M137,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,7.0,45.0,24.0,38.0,2.0,0.0,2.0,0.0,,90,0
+M138,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,9.0,0.0,175.0,53.0,2.0,0.0,2.0,0.0,,30,0
 M139,Hubungi minggu ini,0.995,ada tugas yang terlewat; nilai tugas awal rendah; jumlah hari aktif di LMS rendah,6.0,0.0,124.0,10.0,2.0,1.0,1.0,0.0,22.0,60,0
-M140,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,11.0,0.0,33.0,38.0,2.0,0.0,2.0,0.0,78.0,120,0
-M141,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,13.0,129.0,124.0,28.0,2.0,0.0,2.0,0.0,78.0,90,0
+M140,Hubungi minggu ini,0.995,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,11.0,0.0,33.0,38.0,2.0,0.0,2.0,0.0,,120,0
+M141,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,13.0,129.0,124.0,28.0,2.0,0.0,2.0,0.0,,90,0
 M142,Hubungi minggu ini,0.994,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 1-4 tinggi,19.0,0.0,1808.0,15.0,2.0,1.0,1.0,0.0,22.0,60,0
-M143,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; mendaftar mendekati/sesudah kuliah mulai,18.0,50.0,73.0,35.0,2.0,0.0,2.0,0.0,78.0,60,0
-M144,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,10.0,9.0,22.0,14.0,2.0,0.0,2.0,0.0,78.0,30,0
-M145,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,7.0,4.0,17.0,24.0,2.0,0.0,2.0,0.0,78.0,30,0
-M146,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,9.0,7.0,31.0,29.0,2.0,0.0,2.0,0.0,78.0,60,0
-M147,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; mendaftar mendekati/sesudah kuliah mulai,8.0,12.0,36.0,35.0,2.0,0.0,2.0,0.0,78.0,30,0
+M143,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; mendaftar mendekati/sesudah kuliah mulai,18.0,50.0,73.0,35.0,2.0,0.0,2.0,0.0,,60,0
+M144,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,10.0,9.0,22.0,14.0,2.0,0.0,2.0,0.0,,30,0
+M145,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,7.0,4.0,17.0,24.0,2.0,0.0,2.0,0.0,,30,0
+M146,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,9.0,7.0,31.0,29.0,2.0,0.0,2.0,0.0,,60,0
+M147,Hubungi minggu ini,0.994,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; mendaftar mendekati/sesudah kuliah mulai,8.0,12.0,36.0,35.0,2.0,0.0,2.0,0.0,,30,0
 M148,Hubungi minggu ini,0.994,ada tugas yang terlewat; nilai tugas awal rendah; jumlah hari aktif di LMS rendah,5.0,2.0,86.0,8.0,2.0,1.0,1.0,0.0,24.0,30,0
-M149,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 1-4 tinggi,16.0,8.0,200.0,37.0,2.0,0.0,2.0,0.0,78.0,30,0
-M150,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,11.0,0.0,128.0,40.0,2.0,0.0,2.0,0.0,78.0,30,0
-M151,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,8.0,0.0,39.0,61.0,2.0,0.0,2.0,0.0,78.0,30,0
-M152,Hubungi minggu ini,0.993,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; mendaftar mendekati/sesudah kuliah mulai,20.0,8.0,131.0,27.0,2.0,0.0,2.0,0.0,78.0,45,0
-M153,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,11.0,22.0,33.0,23.0,2.0,0.0,2.0,0.0,78.0,30,0
+M149,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 1-4 tinggi,16.0,8.0,200.0,37.0,2.0,0.0,2.0,0.0,,30,0
+M150,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,11.0,0.0,128.0,40.0,2.0,0.0,2.0,0.0,,30,0
+M151,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,8.0,0.0,39.0,61.0,2.0,0.0,2.0,0.0,,30,0
+M152,Hubungi minggu ini,0.993,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; mendaftar mendekati/sesudah kuliah mulai,20.0,8.0,131.0,27.0,2.0,0.0,2.0,0.0,,45,0
+M153,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,11.0,22.0,33.0,23.0,2.0,0.0,2.0,0.0,,30,0
 M154,Hubungi minggu ini,0.993,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,9.0,1.0,80.0,1.0,2.0,1.0,1.0,0.0,33.0,30,0
 M155,Hubungi minggu ini,0.993,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,35.0,86.0,353.0,3.0,2.0,1.0,1.0,0.0,22.0,60,0
 M156,Hubungi minggu ini,0.993,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,11.0,12.0,171.0,0.0,2.0,1.0,1.0,0.0,44.0,90,0
 M157,Hubungi minggu ini,0.993,ada tugas yang terlewat; nilai tugas awal rendah; jumlah hari aktif di LMS rendah,6.0,4.0,10.0,10.0,2.0,1.0,1.0,0.0,32.0,60,1
-M158,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,3.0,0.0,0.0,25.0,2.0,0.0,2.0,0.0,78.0,30,0
+M158,Hubungi minggu ini,0.993,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS minggu 5-6 rendah,3.0,0.0,0.0,25.0,2.0,0.0,2.0,0.0,,30,0
 M159,Hubungi minggu ini,0.992,ada tugas yang terlewat; nilai tugas awal rendah; jumlah hari aktif di LMS rendah,7.0,8.0,79.0,22.0,2.0,1.0,1.0,0.0,22.0,30,0
 M160,Hubungi minggu ini,0.992,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,12.0,13.0,111.0,0.0,2.0,1.0,1.0,0.0,44.0,120,0
-M161,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; mendaftar mendekati/sesudah kuliah mulai,10.0,5.0,28.0,42.0,2.0,0.0,2.0,0.0,78.0,30,0
-M162,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,15.0,0.0,206.0,421.0,2.0,0.0,2.0,0.0,78.0,120,0
+M161,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; mendaftar mendekati/sesudah kuliah mulai,10.0,5.0,28.0,42.0,2.0,0.0,2.0,0.0,,30,0
+M162,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,15.0,0.0,206.0,421.0,2.0,0.0,2.0,0.0,,120,0
 M163,Hubungi minggu ini,0.992,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,18.0,13.0,249.0,17.0,2.0,1.0,1.0,0.0,22.0,30,0
 M164,Hubungi minggu ini,0.992,ada tugas yang terlewat; nilai tugas awal rendah; jumlah hari aktif di LMS rendah,14.0,1.0,164.0,31.0,2.0,1.0,1.0,0.0,22.0,60,0
-M165,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,5.0,0.0,0.0,37.0,2.0,0.0,2.0,0.0,78.0,30,0
+M165,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,5.0,0.0,0.0,37.0,2.0,0.0,2.0,0.0,,30,0
 M166,Hubungi minggu ini,0.992,ada tugas yang terlewat; nilai tugas awal rendah; jumlah hari aktif di LMS rendah,10.0,0.0,105.0,50.0,2.0,1.0,1.0,0.0,20.0,30,0
-M167,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,11.0,2.0,70.0,68.0,2.0,0.0,2.0,0.0,78.0,30,0
-M168,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,6.0,6.0,0.0,50.0,2.0,0.0,2.0,0.0,78.0,60,0
+M167,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,11.0,2.0,70.0,68.0,2.0,0.0,2.0,0.0,,30,0
+M168,Hubungi minggu ini,0.992,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,6.0,6.0,0.0,50.0,2.0,0.0,2.0,0.0,,60,0
 M169,Hubungi minggu ini,0.991,ada tugas yang terlewat; nilai tugas awal rendah; beban SKS tinggi,23.0,18.0,222.0,59.0,2.0,1.0,1.0,0.0,22.0,120,0
-M170,Hubungi minggu ini,0.991,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,15.0,16.0,101.0,80.0,2.0,0.0,2.0,0.0,78.0,30,0
+M170,Hubungi minggu ini,0.991,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,15.0,16.0,101.0,80.0,2.0,0.0,2.0,0.0,,30,0
 M171,Hubungi minggu ini,0.991,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,7.0,1.0,66.0,2.0,2.0,1.0,1.0,0.0,44.0,150,0
 M172,Hubungi minggu ini,0.991,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,8.0,1.0,64.0,0.0,2.0,1.0,1.0,0.0,44.0,60,0
 M173,Hubungi minggu ini,0.991,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; nilai tugas awal rendah,3.0,0.0,89.0,0.0,2.0,1.0,1.0,0.0,56.0,30,1
 M174,Hubungi minggu ini,0.991,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,15.0,53.0,136.0,0.0,2.0,1.0,1.0,0.0,44.0,60,0
 M175,Hubungi minggu ini,0.991,ada tugas yang terlewat; nilai tugas awal rendah; ada pernah mengulang mata kuliah ini,15.0,2.0,254.0,24.0,2.0,1.0,1.0,0.0,33.0,30,1
-M176,Hubungi minggu ini,0.991,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,1.0,0.0,0.0,74.0,2.0,0.0,2.0,0.0,78.0,30,0
+M176,Hubungi minggu ini,0.991,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; aktivitas LMS sebelum kuliah rendah,1.0,0.0,0.0,74.0,2.0,0.0,2.0,0.0,,30,0
 M177,Hubungi minggu ini,0.99,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; nilai tugas awal rendah,8.0,43.0,49.0,0.0,2.0,1.0,1.0,0.0,56.0,180,0
-M178,Hubungi minggu ini,0.99,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,3.0,0.0,0.0,355.0,2.0,0.0,2.0,0.0,78.0,120,0
+M178,Hubungi minggu ini,0.99,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; beban SKS tinggi,3.0,0.0,0.0,355.0,2.0,0.0,2.0,0.0,,120,0
 M179,Hubungi minggu ini,0.99,ada tugas yang terlewat; nilai tugas awal rendah; ada tugas yang terlambat,9.0,1.0,20.0,35.0,2.0,1.0,1.0,1.0,40.0,30,0
 M180,Hubungi minggu ini,0.99,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,9.0,3.0,84.0,6.0,2.0,1.0,1.0,0.0,44.0,60,1
 M181,Hubungi minggu ini,0.99,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,13.0,69.0,226.0,5.0,2.0,1.0,1.0,0.0,44.0,120,0
 M182,Hubungi minggu ini,0.989,ada tugas yang terlewat; nilai tugas awal rendah; beban SKS tinggi,18.0,9.0,199.0,20.0,2.0,1.0,1.0,0.0,50.0,210,1
 M183,Hubungi minggu ini,0.989,ada tugas yang terlewat; nilai tugas awal rendah; jumlah materi yang dibuka tinggi,24.0,134.0,137.0,115.0,2.0,1.0,1.0,0.0,33.0,150,0
-M184,Hubungi minggu ini,0.989,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; mendaftar mendekati/sesudah kuliah mulai,14.0,21.0,7.0,173.0,2.0,0.0,2.0,0.0,78.0,60,0
+M184,Hubungi minggu ini,0.989,ada tugas yang terlewat; jumlah hari aktif di LMS rendah; mendaftar mendekati/sesudah kuliah mulai,14.0,21.0,7.0,173.0,2.0,0.0,2.0,0.0,,60,0
 M185,Hubungi minggu ini,0.989,ada tugas yang terlewat; nilai tugas awal rendah; aktivitas LMS minggu 5-6 rendah,13.0,14.0,52.0,4.0,2.0,1.0,1.0,0.0,44.0,60,1
 M186,Hubungi minggu ini,0.989,ada tugas yang terlewat; nilai tugas awal rendah; ada tugas yang terlambat,13.0,0.0,168.0,10.0,2.0,1.0,1.0,1.0,52.0,30,0
 M187,Hubungi minggu ini,0.989,ada tugas yang terlewat; aktivitas LMS minggu 5-6 rendah; nilai tugas awal rendah,13.0,0.0,218.0,0.0,2.0,1.0,1.0,0.0,56.0,120,0
